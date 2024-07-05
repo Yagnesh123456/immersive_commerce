@@ -50,7 +50,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyD9FYTjyBPrXQRh1CLhnb2pJTqCDz-E6C8',
+    apiKey: '//api key here',
     appId: '1:670155380564:android:8cd170bd03c4fe2da01ac1',
     messagingSenderId: '670155380564',
     projectId: 'immersive-commerce',
@@ -58,7 +58,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyC-6uuPb6DjEEGyTF9ahXuVxEvbVeTvM_Q',
+    apiKey: '//api key here',
     appId: '1:670155380564:ios:87696df4660d50dfa01ac1',
     messagingSenderId: '670155380564',
     projectId: 'immersive-commerce',
